@@ -1,0 +1,57 @@
+h3
+{
+	font-style: italics;
+}
+.sizes
+{
+	height: 6em;
+	width:6em;
+	font-size: 5px;
+	background-image: linear-gradient(to right, red , yellow);
+	border: none;
+	color: green;
+	text-align: center;
+	text-decoration: none;
+	outline-color:white;
+	display: inline-block;
+	cursor: pointer;
+}
+body
+{
+	background-image: url("lobby.jpg") ;
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+	font-size:15px;
+	background-size: cover;
+	
+}
+table
+{
+	/*border-collapse: collapse;*/
+}
+table, th, td 
+{
+	background: rgba(255,255,255,0.3);
+  border: 1px solid red;
+  text-align: justify;
+  height: 50px;
+  vertical-align: justify;
+  font-size: 30px
+  
+   
+}
+td:hover
+{
+	background-color:  red;
+	opacity: 50%;
+}
+/*
+tr:nth-child(even) 
+{
+	background-color: #f2f2f2;
+}
+*/
+.sty
+{
+	
+}

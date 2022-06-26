@@ -1,0 +1,52 @@
+h3
+{
+	font: italics;
+	color: white;
+	outline-color:black;
+	text-shadow: 2px 2px #ff0000;
+	outline-color: coral;
+	
+}
+.sizes
+{
+	height: 6em;
+	width:6em;
+	font-size: 5px;
+	color: red;
+	background-image: linear-gradient(to right, red , yellow);
+	border: none;
+	color: red;
+	text-align: center;
+	text-decoration: none;
+	outline-color:white;
+	display: inline-block;
+	cursor: pointer;
+}
+.siz2
+{
+	height: 6em;
+	width: 10em;
+	font-size: 5px;
+	color: red;
+	background-image: linear-gradient(to right, red,yellow);
+	border: none;
+	color: red;
+	text-align: center;
+	text-decoration: none;
+	outline-color:white;
+	display: inline-block;
+	cursor: pointer;
+}
+body
+{
+	background-image: url("castle.jpg") ;
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+	font-size:15px;
+	background-size: cover;
+	
+}
+.twe
+{
+	background-color: rgba(255,255,255,0.3);
+}
