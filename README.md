@@ -7,10 +7,8 @@
 </head>
 <body>
     <h1>DBMS Project on Hotel Management</h1>
-
     <h2>Introduction</h2>
     <p>This project is a comprehensive hotel management system developed as part of a database management system (DBMS) course. The application is built using the LAMP stack (Linux, Apache, MySQL, PHP) and phpMyAdmin for database management. It includes various functionalities to manage different aspects of a hotel, such as customer management, room management, employee management, and amenities management.</p>
-
     <h2>Table of Contents</h2>
     <ul>
         <li><a href="#introduction">Introduction</a></li>
@@ -22,7 +20,6 @@
         <li><a href="#contributing">Contributing</a></li>
         <li><a href="#license">License</a></li>
     </ul>
-
     <h2 id="features">Features</h2>
     <ul>
         <li><strong>Customer Management</strong>: Add, update, and delete customer information.</li>
@@ -31,7 +28,6 @@
         <li><strong>Amenities Management</strong>: Manage hotel amenities such as catering, rooms, and other facilities.</li>
         <li><strong>Authentication</strong>: Separate login portals for managers, receptionists, and staff.</li>
     </ul>
-
     <h2 id="technologies-used">Technologies Used</h2>
     <ul>
         <li><strong>LAMP Stack</strong>:
@@ -46,7 +42,6 @@
         <li><strong>HTML/CSS</strong>: Frontend development.</li>
         <li><strong>JavaScript</strong>: Client-side scripting for enhanced user interactions.</li>
     </ul>
-
     <h2 id="setup-instructions">Setup Instructions</h2>
     <p>To set up this project locally, follow these steps:</p>
     <ol>
@@ -74,101 +69,5 @@ cd hotel-management-system</code></pre>
             </ul>
         </li>
     </ol>
-
-    <h2 id="project-structure">Project Structure</h2>
-    <pre><code>hotel-management-system/
-├── AboutUS.html
-├── HomeMain.php
-├── MH.css
-├── MR.css
-├── ManagerAmenities.php
-├── ManagerCaterers.php
-├── ManagerCustomer.php
-├── ManagerEmployee.php
-├── ManagerHome.php
-├── ManagerHotel.php
-├── ManagerLogin.php
-├── ManagerRoom.php
-├── Managerlo.css
-├── New Text Document.txt
-├── RH.css
-├── RR.css
-├── ReadCaterersM.php
-├── ReadCustomerM.php
-├── ReadCustomerR.php
-├── ReadEmployeeM.php
-├── ReceptionAmenities.php
-├── ReceptionCaterer.php
-├── ReceptionCustomer.php
-├── ReceptionHome.php
-├── ReceptionHotel.php
-├── ReceptionLogin.php
-├── ReceptionRoom.php
-├── Receptionlo.css
-├── Receptionlog.css
-├── SH.css
-├── SR.css
-├── StaffAmenities.php
-├── StaffHome.php
-├── StaffLogin.php
-├── StaffRoom.php
-├── Stafflog.css
-├── WriteCustomerR.php
-├── assets/
-│   ├── beach1.jpg
-│   ├── beach2.jpg
-│   ├── buffedi.jpg
-│   ├── buffet.jpg
-│   ├── castle.jpg
-│   ├── cater.jpg
-│   ├── door.jpg
-│   ├── dubai1.jpg
-│   ├── food.jpg
-│   ├── grandstairs.jpg
-│   ├── home.jpg
-│   ├── homema.css
-│   ├── lobby.jpg
-│   ├── lobbyan.jpg
-│   ├── masonlobby.jpg
-│   ├── meetingdin.jpg
-│   ├── oberoi.jpg
-│   ├── pinkblue.jpg
-│   ├── roofswim.jpg
-│   ├── room1.jpg
-│   ├── room3.jpg
-│   ├── room4.jpg
-│   ├── roomtv.jpg
-│   ├── sea.jpg
-│   ├── searesort.jpg
-│   ├── step.jpg
-│   ├── swimtwo.jpg
-│   ├── towel.jpg
-│   ├── traditional.jpg
-├── m_removecat.php
-├── m_removecust.php
-├── m_removecust1.php
-├── m_removeemp.php
-├── m_removeemp1.php
-├── m_writecaterer1.php
-├── m_writecaterer2.php
-├── m_writecaterers.php
-├── m_writecust.php
-├── m_writecust1.php
-├── m_writecust2.php
-├── m_writeemp.php
-├── m_writeemp1.php
-├── m_writeemp2.php
-├── r_removecust.php
-├── r_removecust1.php
-├── try.php</code></pre>
-
-    <h2 id="screenshots">Screenshots</h2>
-    <p><!-- Add screenshots of your project here if available --></p>
-
-    <h2 id="contributing">Contributing</h2>
-    <p>Contributions are welcome! Please fork this repository and submit a pull request with your changes. Ensure your code adheres to the project's coding standards.</p>
-
-    <h2 id="license">License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
