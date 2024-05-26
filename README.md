@@ -15,10 +15,6 @@
         <li><a href="#features">Features</a></li>
         <li><a href="#technologies-used">Technologies Used</a></li>
         <li><a href="#setup-instructions">Setup Instructions</a></li>
-        <li><a href="#project-structure">Project Structure</a></li>
-        <li><a href="#screenshots">Screenshots</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
     </ul>
     <h2 id="features">Features</h2>
     <ul>
