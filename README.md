@@ -7,8 +7,6 @@
 </head>
 <body>
     <h1>DBMS Project on Hotel Management</h1>
-    <h2>Introduction</h2>
-    <p>This project is a comprehensive hotel management system developed as part of a database management system (DBMS) course. The application is built using the LAMP stack (Linux, Apache, MySQL, PHP) and phpMyAdmin for database management. It includes various functionalities to manage different aspects of a hotel, such as customer management, room management, employee management, and amenities management.</p>
     <h2>Table of Contents</h2>
     <ul>
         <li><a href="#introduction">Introduction</a></li>
@@ -16,6 +14,8 @@
         <li><a href="#technologies-used">Technologies Used</a></li>
         <li><a href="#setup-instructions">Setup Instructions</a></li>
     </ul>
+    <h2>Introduction</h2>
+    <p>This project is a comprehensive hotel management system developed as part of a database management system (DBMS) course. The application is built using the LAMP stack (Linux, Apache, MySQL, PHP) and phpMyAdmin for database management. It includes various functionalities to manage different aspects of a hotel, such as customer management, room management, employee management, and amenities management.</p>
     <h2 id="features">Features</h2>
     <ul>
         <li><strong>Customer Management</strong>: Add, update, and delete customer information.</li>
