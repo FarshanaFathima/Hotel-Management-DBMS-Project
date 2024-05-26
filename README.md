@@ -12,7 +12,6 @@
         <li><a href="#introduction">Introduction</a></li>
         <li><a href="#features">Features</a></li>
         <li><a href="#technologies-used">Technologies Used</a></li>
-        <li><a href="#setup-instructions">Setup Instructions</a></li>
     </ul>
     <h2>Introduction</h2>
     <p>This project is a comprehensive hotel management system developed as part of a database management system (DBMS) course. The application is built using the LAMP stack (Linux, Apache, MySQL, PHP) and phpMyAdmin for database management. It includes various functionalities to manage different aspects of a hotel, such as customer management, room management, employee management, and amenities management.</p>
@@ -34,36 +33,9 @@
                 <li><strong>PHP</strong>: Server-side scripting language for backend development.</li>
             </ul>
         </li>
-        <li><strong>phpMyAdmin</strong>: A free and open-source administration tool for MySQL and MariaDB.</li>
+        <li><strong>phpMyAdmin</strong>: A free and open-source administration tool for MySQL.</li>
         <li><strong>HTML/CSS</strong>: Frontend development.</li>
-        <li><strong>JavaScript</strong>: Client-side scripting for enhanced user interactions.</li>
     </ul>
-    <h2 id="setup-instructions">Setup Instructions</h2>
-    <p>To set up this project locally, follow these steps:</p>
-    <ol>
-        <li><strong>Clone the repository</strong>:
-            <pre><code>git clone https://github.com/FarshanaFathima/hotel-management-system.git
-cd hotel-management-system</code></pre>
-        </li>
-        <li><strong>Set up the database</strong>:
-            <ul>
-                <li>Open phpMyAdmin.</li>
-                <li>Create a new MySQL database.</li>
-                <li>Import the provided SQL file (<code>database.sql</code>) into your new database via phpMyAdmin's import feature.</li>
-            </ul>
-        </li>
-        <li><strong>Configure the project</strong>:
-            <ul>
-                <li>Update the database configuration in <code>db_config.php</code> with your database credentials.</li>
-            </ul>
-        </li>
-        <li><strong>Run the project</strong>:
-            <ul>
-                <li>Ensure you have a local server running (e.g., XAMPP, WAMP).</li>
-                <li>Place the project folder in the server's root directory (e.g., <code>htdocs</code> for XAMPP).</li>
-                <li>Access the project via <code>http://localhost/hotel-management-system</code>.</li>
-            </ul>
-        </li>
-    </ol>
+   
 </body>
 </html>
